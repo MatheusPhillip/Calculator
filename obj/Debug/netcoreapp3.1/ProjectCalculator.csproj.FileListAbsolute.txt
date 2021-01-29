@@ -1,0 +1,13 @@
+C:\Users\Matheus\Documents\CursoCSharp\Mobile\Calculator\bin\Debug\netcoreapp3.1\ProjectCalculator.exe
+C:\Users\Matheus\Documents\CursoCSharp\Mobile\Calculator\bin\Debug\netcoreapp3.1\ProjectCalculator.deps.json
+C:\Users\Matheus\Documents\CursoCSharp\Mobile\Calculator\bin\Debug\netcoreapp3.1\ProjectCalculator.runtimeconfig.json
+C:\Users\Matheus\Documents\CursoCSharp\Mobile\Calculator\bin\Debug\netcoreapp3.1\ProjectCalculator.runtimeconfig.dev.json
+C:\Users\Matheus\Documents\CursoCSharp\Mobile\Calculator\bin\Debug\netcoreapp3.1\ProjectCalculator.dll
+C:\Users\Matheus\Documents\CursoCSharp\Mobile\Calculator\bin\Debug\netcoreapp3.1\ProjectCalculator.pdb
+C:\Users\Matheus\Documents\CursoCSharp\Mobile\Calculator\obj\Debug\netcoreapp3.1\ProjectCalculator.csprojAssemblyReference.cache
+C:\Users\Matheus\Documents\CursoCSharp\Mobile\Calculator\obj\Debug\netcoreapp3.1\ProjectCalculator.AssemblyInfoInputs.cache
+C:\Users\Matheus\Documents\CursoCSharp\Mobile\Calculator\obj\Debug\netcoreapp3.1\ProjectCalculator.AssemblyInfo.cs
+C:\Users\Matheus\Documents\CursoCSharp\Mobile\Calculator\obj\Debug\netcoreapp3.1\ProjectCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\CursoCSharp\Mobile\Calculator\obj\Debug\netcoreapp3.1\ProjectCalculator.dll
+C:\Users\Matheus\Documents\CursoCSharp\Mobile\Calculator\obj\Debug\netcoreapp3.1\ProjectCalculator.pdb
+C:\Users\Matheus\Documents\CursoCSharp\Mobile\Calculator\obj\Debug\netcoreapp3.1\ProjectCalculator.genruntimeconfig.cache
